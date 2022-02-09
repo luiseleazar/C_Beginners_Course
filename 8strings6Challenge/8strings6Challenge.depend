@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642622824 source:c:\8strings6challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+

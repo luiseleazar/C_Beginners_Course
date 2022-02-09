@@ -1,0 +1,4 @@
+EmpName		IQ Score
+luis		120
+barre		20
+edu		10

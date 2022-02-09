@@ -1,0 +1,2 @@
+EmpName		IQ Score
+luis		120

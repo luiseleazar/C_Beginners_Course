@@ -1,0 +1,6 @@
+EmpName		IQ Score
+EmpName		10
+IQ		10
+Score		10
+barre		20
+edu		10
