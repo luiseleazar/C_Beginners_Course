@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1642639751 source:c:\8strings9challenge\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<assert.h>
-
